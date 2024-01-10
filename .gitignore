@@ -146,6 +146,7 @@ lib/
 lib64/
 bin/
 pyvenv.cfg
+generated_excludes.txt
 
 
 # mypy
