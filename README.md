@@ -6,5 +6,8 @@ There are no requirements for this project
 
 Directory arguments are relative to the users home directory
 ```python
-excluder.py [dir1 dir2 ...] 
+excluder.py dir1 dir2 ...
+
+# Enter the patterns to match. Will match file and folder names.
+Enter terms to search for, separated by spaces: term1 term2 ...
 ```
