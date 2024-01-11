@@ -142,8 +142,7 @@ venv.bak/
 # mkdocs documentation
 /site
 # personal
-lib/
-lib64/
+lib*
 bin/
 pyvenv.cfg
 generated_excludes.txt
