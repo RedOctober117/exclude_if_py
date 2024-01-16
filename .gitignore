@@ -145,7 +145,7 @@ venv.bak/
 lib*
 bin/
 pyvenv.cfg
-generated_excludes.txt
+*.txt
 
 
 # mypy
